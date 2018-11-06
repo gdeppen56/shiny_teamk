@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "52|21|57|0|\n59|25|63|0|\n65|33|82|0|\n85|60|113|0|\n118|75|168|2|\n175|60|184|2|\n187|28|196|0|\n198|29|208|0|\n216|51|239|2|\n243|67|270|2|\n275|66|298|2|\n302|49|343|2|\n347|49|372|2|\n378|45|435|2|\n440|55|514|2|\n520|36|534|0|\n539|55|588|2|\n593|55|629|2|\n635|19|642|2|\n645|16|657|2|\n659|37|676|0|\n683|74|690|2|\n717|60|728|2|\n734|28|761|2|\n",
-    "hash" : "1525214787",
+    "hash" : "4045118067",
     "id" : "765A4E88",
-    "lastKnownWriteTime" : 1541523304,
-    "last_content_update" : 1541523304923,
+    "lastKnownWriteTime" : 1541523740,
+    "last_content_update" : 1541523740465,
     "path" : "Y:/gdeppen/Rscripts/testing/notes_test/FA_ag.R",
     "project_path" : "FA_ag.R",
     "properties" : {
-        "cursorPosition" : "879,0",
-        "scrollLine" : "860"
+        "cursorPosition" : "949,17",
+        "scrollLine" : "908"
     },
     "relative_order" : 1,
     "source_on_save" : false,

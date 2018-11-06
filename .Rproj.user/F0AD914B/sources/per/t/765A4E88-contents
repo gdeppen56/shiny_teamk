@@ -946,7 +946,8 @@ ui <- function(request){ #request for bookmarking
                 
                 # style = "background-color: #ffffff;",
                 
-                
+                #TODO:
+                #uiOutput("ui_notes_new"),
                 uiOutput("ui_relative_price"),
                 uiOutput("ui_seasonality"),
                 uiOutput("ui_range.risk"),

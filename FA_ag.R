@@ -678,7 +678,7 @@ spreadNameBr <- function(this.name) { # this.name is vector
 
 #-------------------------------------- slack 
 library(slackr)
-api_token_teamKnuepfer <- "xoxp-388213491315-388090025508-387775540449-f126389d23576f3dbec24be34c9c030a" #is api token forever?
+#api_token_teamKnuepfer <- "" #is api token forever?
 
 slackit <- 
   function(channel="#master", message ,api_token=api_token_teamKnuepfer ){
@@ -946,7 +946,8 @@ ui <- function(request){ #request for bookmarking
                 
                 # style = "background-color: #ffffff;",
                 
-                
+                #TODO:
+                #uiOutput("ui_notes_new"),
                 uiOutput("ui_relative_price"),
                 uiOutput("ui_seasonality"),
                 uiOutput("ui_range.risk"),
